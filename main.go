@@ -13,7 +13,7 @@ import (
 var bot *tgbotapi.BotAPI
 var token string
 var administrationChatID int64 = -1001864417452 // admin tasks
-var supportChatID int64 = -1002031508824
+var supportChatID int64 = -1002364207911
 
 var notifierMap map[int64][]Service
 
